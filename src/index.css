@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#bae1ae;
+}
+h1{
+    color: rgb(186, 133, 133) ;
+}
+.cdiv{
+    background-color: bisque;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 23rem;
+    border-radius: 2rem;
+    margin-top: 20rem;
+}
